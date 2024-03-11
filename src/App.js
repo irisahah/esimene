@@ -8,7 +8,7 @@ function App() {
       <br />
       <Luuletus />
     </div>
-  );
+  )
 }
 
 export default App;
